@@ -16,7 +16,7 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #ffffff;
   text-decoration: inherit;
 }
 a:hover {
@@ -30,6 +30,8 @@ body {
   align-items: flex-start;
 
 }
+body.light { background: #0e73cc; color: #000; }
+body.dark { background: #0b0c10; color: #fff; }
 
 h1 {
   font-size: 3.2em;
